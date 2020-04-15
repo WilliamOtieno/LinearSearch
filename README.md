@@ -1,0 +1,2 @@
+Linear Search is a simple search algorithm, which checks every element of the list for a match, and returns the index of the matched element.
+The implementation is very simple - we just need one loop to go through the whole list and check for a match.
